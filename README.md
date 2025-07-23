@@ -161,5 +161,26 @@ O ficheiro `simulador_planador.py` é um **simulador em Qt para Windows 10, Ubun
 * **macOS**: Instala via `pip3 install pyqt5`
 
 ---
+✅ Foi criado um **script único e completo em Qt** que inclui:
+
+### 📦 Funcionalidades:
+
+* Simulações físicas: Força, Torque, Resistência, Tempo RC, Energia, Eficiência
+* Simulador PID
+* Simulador de asas de drone planador
+* Leitura de sensores MPU6050 (em tempo real)
+* Menu Qt com janelas individuais
+* Gravação e leitura de logs
+
+---
+
+### ▶️ Para executar:
+
+1. Instala dependências:
+
+   ```bash
+   pip install pyqt5 matplotlib pyserial
+   ```
+
 
 
