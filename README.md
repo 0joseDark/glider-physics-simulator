@@ -135,9 +135,6 @@ $$
 * Calcula as dimensões físicas da asa (envergadura e corda).
 
 ---
-O ficheiro `simulador_planador.py` é um **simulador em Qt para Windows 10, Ubuntu e Mac**, que calcula as dimensões ideais das asas (área, envergadura, corda) de um drone planador com base no peso total.
-
----
 
 ## ✅ Como funciona:
 
