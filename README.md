@@ -1,3 +1,5 @@
+ [__English__](https://github.com/0joseDark/glider-physics-simulator/blob/main/README-EN.md)
+
 ## ✅ 📋 **Objetivo:**
 
 Calcular as **dimensões ideais das asas** de um **drone planador**, com base no seu **peso total**.
